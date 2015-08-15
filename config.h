@@ -5,7 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char font[] = "Inconsolata:pixelsize=15:lcdfilter=lcddefault:hintstyle=hintfull:hinting=true:rgba=rgb:antialias=true:autohint=false";
+static char font[] = "DejaVu Sans Mono:size=14:lcdfilter=lcddefault:hintstyle=hintfull:hinting=true:rgba=rgb:antialias=true:autohint=false";
+
 
 static int borderpx = 2;
 
